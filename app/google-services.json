@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045031165236",
+    "firebase_url": "https://achat-bb2b5.firebaseio.com",
+    "project_id": "achat-bb2b5",
+    "storage_bucket": "achat-bb2b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045031165236:android:003dc3e38d408d39155961",
+        "android_client_info": {
+          "package_name": "com.race.achat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045031165236-qedb623pm8fpnddl412esmrfm0ap58o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.race.achat",
+            "certificate_hash": "bfd14b552b6ff480e74cdbafed14df3bac56bdcf"
+          }
+        },
+        {
+          "client_id": "1045031165236-8kbo15tttbsre1g39dgl8nceg3jtav93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeVEtpiCS_cKvk6laVuMrPlbnSzHvtTN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045031165236-8kbo15tttbsre1g39dgl8nceg3jtav93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
